@@ -1,0 +1,22 @@
+h1 {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+}
+
+.buttonPadding {
+    margin: 2px !important;
+}
+
+.emptyDiv {
+    background: #000033;
+}
+
+.margin {
+    width: 20%;
+    margin-right: 0.5em;
+}
+
+.Input {
+    width: 76%;
+}
